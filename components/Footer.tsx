@@ -50,25 +50,25 @@ export default function Footer() {
         </div>
         <div className="flex flex-col space-y-4">
           <Link
-            href="/uses"
+            href="/"
             className="text-gray-500 hover:text-gray-600 transition"
           >
             Uses
           </Link>
           <Link
-            href="/guestbook"
+            href="/"
             className="text-gray-500 hover:text-gray-600 transition"
           >
             Guestbook
           </Link>
           <Link
-            href="/snippets"
+            href="/"
             className="text-gray-500 hover:text-gray-600 transition"
           >
             Snippets
           </Link>
           <Link
-            href="/tweets"
+            href="/"
             className="text-gray-500 hover:text-gray-600 transition"
           >
             Tweets
